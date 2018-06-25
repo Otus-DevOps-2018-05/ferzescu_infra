@@ -1,3 +1,6 @@
+bastion_IP = 35.234.126.62
+someinternalhost_IP = 10.164.0.2 
+
 Host bastion
  ForwardAgent yes
  User itriputen
