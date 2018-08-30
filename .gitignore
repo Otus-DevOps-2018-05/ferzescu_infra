@@ -4,3 +4,4 @@ variable.json
 *.tfstate.backup
 *.tfvars
 .terraform/
+*.json
